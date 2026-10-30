@@ -8,7 +8,7 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 ### Featured Projects
 
 *  **[My Personal Operational Security Stack](https://github.com/CypherMux/My-Personal-Operational-Security-Stack)**
-*  *A comprehensive and multi-layered security architecture for a daily driver Linux system. This stack covers Physical Security, Kernel Hardening, Network Obfuscation, and Financial Privacy.*
+*  *A comprehensive and multi-layered security architecture for a daily driver Linux system that I personally use. This stack covers Physical Security, Kernel Hardening, Network Obfuscation, and Financial Privacy.*
 
 *  **[THM Write-Ups](https://github.com/CypherMux?tab=repositories&q=THM-Write-Up)**
 *  *In depth technical walkthroughs of TryHackMe rooms. Focused primarily on explaining the "why" behind the exploit in depth.*
