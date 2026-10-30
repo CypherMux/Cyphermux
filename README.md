@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi,I'm Zach (stlwtrs)
+*(Github handle: Cyphermux)*
 
-<!--
-**CypherMux/Cyphermux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity student specializing in **Offensive Security(Red Teaming)** and **Digital Operational Security**.
 
-Here are some ideas to get you started:
+My philosophy is simple: **Silence as many attack vectors as possible without hindering daily usability.** I believe in the understanding the underlying mechanics of a system before trying to break it or defend it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+*  **[My Personal Operational Security Stack](https://github.com/CypherMux/My-Personal-Operational-Security-Stack)**
+*  *A comprehensive and multi-layered security architecture for a daily driver Linux system. This stack covers Physical Security, Kernel Hardening, Network Obfuscation, and Financial Privacy.*
+
+*  **[THM Write-Ups](https://github.com/CypherMux?tab=repositories&q=THM-Write-Up)**
+*  *In depth technical walkthroughs of TryHackMe rooms. Focused primarily on explaining the "why" behind the exploit in depth.*
+
+  ### My Arsenal
+
+*   **Operating Systems:** Arch Linux, Windows Server instance for my homelab, and Tails OS.
+
+*   **Offensive Tools:** Nmap, Hydra, Metasploit, Burp Suite
+
+*   **Defensive/Operational Security Tools:** AppArmor, USBGuard, Mullvad VPN, Tor, LUKS.
+
+*   **Scripting:** Bash,Python,Ruby,and PowerShell.
+
+### Current Focus
+
+* Mastering Active Directory exploitation and Host Evasion.
+
+* Building custom CLI tools for automation and network enumeration.
+
+* Preparing for my CompTIA Security+ certification.
+
+### Connect With Me
+
+*  **TryHackMe:** Top 2% Globally *(Capability Score 60+)*
+
+  **https://tryhackme.com/p/stlwtrs**
+
+*  **LinkedIn:**
+
+  **https://www.linkedin.com/in/zachary-white-11a859421/**
+
