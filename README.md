@@ -1,9 +1,9 @@
 ## Hi,I'm Zach (stlwtrs)
-*(Github handle: Cyphermux)*
+*(Github handle: Cyphermux).*
 
-I am a cybersecurity student specializing in **Offensive Security(Red Teaming)** and **Digital Operational Security**.
+I am a cybersecurity student specializing in **Offensive Security (Red Teaming)** and **Digital Operational Security**.
 
-My philosophy is simple: **Silence as many attack vectors as possible without hindering daily usability.** I believe in the understanding the underlying mechanics of a system before trying to break it or defend it.
+My philosophy is simple: **Silence as many attack vectors as possible without hindering daily usability.** I believe in understanding the underlying mechanics of a system before trying to break it or defend it.
 
 ### Featured Projects
 
@@ -21,7 +21,7 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 
 *   **Defensive/Operational Security Tools:** AppArmor, USBGuard, Mullvad VPN, Tor, LUKS.
 
-*   **Scripting:** Bash,Python,Ruby,and PowerShell.
+*   **Scripting:** Bash, Python, Ruby, and PowerShell.
 
 ### Current Focus
 
