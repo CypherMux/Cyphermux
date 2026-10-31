@@ -13,6 +13,9 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 *  **[THM Write-Ups](https://github.com/CypherMux?tab=repositories&q=THM-Write-Up)**
 *  *In depth technical walkthroughs of TryHackMe rooms. Focused primarily on explaining the "why" behind the exploit in depth.*
 
+*  **[hextcp](https://github.com/CypherMux/hextcp)**
+*  *A 100% native Bash tool designed to parse `/proc/net/tcp` and decode Little-Endian hexadecimal IPs and ports into human-readable output. Includes IPv6 support and Process/PID mapping as well.*
+
   ### My Arsenal
 
 *   **Operating Systems:** Arch Linux, Windows Server instance for my homelab, and Tails OS.
