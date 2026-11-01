@@ -20,9 +20,9 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 
 *   **Operating Systems:** Arch Linux, Windows Server instance for my homelab, and Tails OS.
 
-*   **Offensive Tools:** Nmap, Hydra, Metasploit, Burp Suite, etc...
+*   **Offensive Tools:** Nmap, Hydra, Metasploit, Burp Suite, Gobuster
 
-*   **Defensive/Operational Security Tools:** AppArmor, USBGuard, Mullvad VPN, Tor, LUKS2, etc...
+*   **Defensive/Operational Security Tools:** AppArmor, USBGuard, Mullvad VPN, Tor, LUKS2, etc..
 
 *   **Scripting:** Bash, Python, Ruby, and PowerShell.
 
