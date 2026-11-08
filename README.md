@@ -16,6 +16,9 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 *  **[hextcp](https://github.com/CypherMux/hextcp)**
 *  *A ~99% native Bash tool designed to parse `/proc/net/tcp` and decode Little-Endian hexadecimal IPs and ports into human-readable output. Includes IPv6 support, UNIX socket support, and Process/PID mapping as well.*
 
+*  **[USBSnitch](https://github.com/CypherMux/USBSnitch)** *(99% Complete, just a few bugs that need to be ironed out)*
+*  *A real time desktop notification visualizer for the USBGuard software. Runs as a Python systemd daemon to alert you the second a device is plugged in and whether it was authorized or blocked by USBGuard.*
+
   ### My Arsenal
 
 *   **Operating Systems:** Arch Linux, Windows Server instance for my homelab, and Tails OS.
