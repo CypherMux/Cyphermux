@@ -61,6 +61,14 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 
 *  **Continuous Growth & Learning:** Having started my cybersecurity journey officially in August 2026, I am aggressively expanding my technical arsenal and documenting my progression through hands-on labs on TryHackMe and through my conception of custom tooling software.
 
+### My Approach & Methodology
+
+*  **Root-Cause Analysis:** When tackling CTFs or vulnerabilities, I focus on understanding the underlying mechanics *(e.g how the kernel handles memory or how the AD handles authentication)* rather than just running automated scripts immediately.
+
+*  **Documentation:** I personally believe that a vulnerability isn't truly understood until it can be clearly explained. I maintain detailed notes and write-ups for all my custom tooling and CTF rooms I complete.
+
+*  **Continuous Iteration:** I treat my personal infrastructure as a continuous project I can work on, constantly refining my operational security stack to balance maximum security with daily usability as much as I can.
+
 ### Connect With Me
 
 *  **TryHackMe:** Top 2% Globally *(Capability Score 60+)* -> [tryhackme.com/p/stlwtrs](https://tryhackme.com/p/stlwtrs)
