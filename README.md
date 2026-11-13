@@ -28,7 +28,7 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
   
   *  **Frameworks & Exploitation:** Metasploit & Burp Suite
 
-  *  **Recon & Network:** Nmap & Gobuster
+  *  **Recon & Network:** Nmap, Gobuster, Wireshark
 
   *  **Credential Attacks:** Hydra
 
