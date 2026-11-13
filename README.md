@@ -63,7 +63,7 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 
 ### My Approach & Methodology
 
-*  **Root-Cause Analysis:** When tackling CTFs or vulnerabilities, I focus on understanding the underlying mechanics *(e.g how the kernel handles memory or how the AD handles authentication)* rather than just running automated scripts immediately.
+*  **Root-Cause Analysis:** When tackling CTFs or vulnerabilities, I focus on understanding the underlying mechanics *(e.g. how the kernel handles memory or how the AD handles authentication)* rather than just running automated scripts immediately.
 
 *  **Documentation:** I personally believe that a vulnerability isn't truly understood until it can be clearly explained. I maintain detailed notes and write-ups for all my custom tooling and CTF rooms I complete.
 
