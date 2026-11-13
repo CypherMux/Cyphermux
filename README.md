@@ -32,13 +32,17 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 
 *   **Scripting:** Bash, Python, Ruby, and PowerShell.
 
-### Current Focus
+### Current Focus & Objectives
 
-* Mastering Active Directory exploitation and Host Evasion.
+*  **Adversary Emulation & Exploitation:** I am currently mastering Active Directory exploitation, advanced host evasion techniques, and internal network pivoting to better understand how modern attack paths function.
 
-* Building custom CLI tools for automation and network enumeration.
+*  **Tooling & Automation:** I am developing custom CLI utilities to automate network enumeration, OSINT gathering, and system auditing.
 
-* Preparing for my CompTIA Security+ certification.
+*  **Defensive Architecture:** I am engineering a hardened and low friction Arch Linux daily driver environment which utilizes kernel-level security, MAC hardening, and custom memory-integrity monitoring.
+
+*  **Professional Development:** I am actively pursuing the CompTIA Security+ certification to formalize my foundational security concepts and validate the practical skills I currently have.
+
+*  **Continuous Growth & Learning:** Having started my cybersecurity journey officially in August 2026, I am aggressively expanding my technical arsenal and documenting my progression through hands-on labs on TryHackMe and through my conception of custom tooling software.
 
 ### Connect With Me
 
