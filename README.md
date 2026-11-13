@@ -24,6 +24,12 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 
   ### My Arsenal
 
+  **Custom Tooling & Development**
+
+  *  **Networking & Enumeration:** hextcp
+
+  *  **System Monitoring:** CopyFix & USBSnitch
+
   **Offensive & Enumeration**
   
   *  **Frameworks & Exploitation:** Metasploit & Burp Suite
