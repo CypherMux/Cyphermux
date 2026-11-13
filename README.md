@@ -63,11 +63,7 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 
 ### Connect With Me
 
-*  **TryHackMe:** Top 2% Globally *(Capability Score 60+)*
+*  **TryHackMe:** Top 2% Globally *(Capability Score 60+)* -> [tryhackme.com/p/stlwtrs](https://tryhackme.com/p/stlwtrs)
 
-  **https://tryhackme.com/p/stlwtrs**
-
-*  **LinkedIn:**
-
-  **https://www.linkedin.com/in/zachary-white-11a859421/**
+*  **LinkedIn:** -> [Zachary White](https://www.linkedin.com/in/zachary-white-11a859421/)
 
