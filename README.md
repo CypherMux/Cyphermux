@@ -24,13 +24,24 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 
   ### My Arsenal
 
-*   **Operating Systems:** Arch Linux, Windows Server instance for my homelab, and Tails OS.
+  **Offensive & Enumeration**
+  
+  *  **Frameworks & Exploitation:** Metasploit & Burp Suite
 
-*   **Offensive Tools:** Nmap, Hydra, Metasploit, Burp Suite, Gobuster
+  *  **Recon & Network:** Nmap & Gobuster
 
-*   **Defensive/Operational Security Tools:** AppArmor, USBGuard, Mullvad VPN, Tor, LUKS2, etc..
+  *  **Credential Attacks:** Hydra
 
-*   **Scripting:** Bash, Python, Ruby, and PowerShell.
+  *  **Coding Languages:** Python, Bash, Ruby, PowerShell
+
+  **Defensive & Operational Security(OPSEC)**
+
+  *  **Kernel & Access Control:** Arch Linux & AppArmor
+
+  *  **Physical & Network Security:** USBGuard, MullvadVPN, Tor
+
+  *  **Cryptography:** LUKS2 *(Full Disk Encryption)*
+
 
 ### Current Focus & Objectives
 
