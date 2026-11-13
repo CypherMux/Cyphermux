@@ -7,6 +7,9 @@ My philosophy is simple: **Silence as many attack vectors as possible without hi
 
 ### Featured Projects
 
+*  **[CopyFix](https://github.com/CypherMux/CopyFix)**
+*  *A Dual-Verification File Integrity Monitor designed to detect memory-resident "Copy Fail" attacks. It hashes the on-disk binary against the in-memory `/proc/<PID>/exe` to catch fileless malware that traditional tools like AIDE miss.*
+
 *  **[My Personal Operational Security Stack](https://github.com/CypherMux/My-Personal-Operational-Security-Stack)**
 *  *A comprehensive and multi-layered security architecture for a daily driver Linux system that I personally use. This stack covers Physical Security, Kernel Hardening, Network Obfuscation, and Financial Privacy.*
 
